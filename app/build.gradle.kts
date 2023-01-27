@@ -49,7 +49,7 @@ repositories {
 
 configurations.all {
     resolutionStrategy {
-        force("org.apache.kafka:kafka-clients:3.3.1")
+        force("org.apache.kafka:kafka-clients:7.3.1-ce")
     }
 }
 
