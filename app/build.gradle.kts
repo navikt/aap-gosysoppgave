@@ -10,7 +10,7 @@ application {
     mainClass.set("gosysoppgave.AppKt")
 }
 
-val aapLibsVersion = "3.5.41"
+val aapLibsVersion = "3.5.44"
 val ktorVersion = "2.2.2"
 
 dependencies {
